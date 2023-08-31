@@ -1,0 +1,13 @@
+Source: powerlevel10k
+Section: main
+Priority: optional
+Maintainer: Atle <atle@goliathdns.no>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://www.github.com/atlesn/powerlevel10k
+Rules-Requires-Root: no
+
+Package: powerlevel10k
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Package for romkatv's powerlevel10k
