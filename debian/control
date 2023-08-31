@@ -9,5 +9,7 @@ Rules-Requires-Root: no
 
 Package: powerlevel10k
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Package for romkatv's powerlevel10k
+Depends: zsh-autosuggestions,
+         zsh-syntax-highlighting,
+         exa

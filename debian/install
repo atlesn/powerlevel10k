@@ -1,4 +1,5 @@
 config                      /usr/share/powerlevel10k/
+gitstatus                   /usr/share/powerlevel10k/
 internal                    /usr/share/powerlevel10k/
 LICENSE                     /usr/share/powerlevel10k/
 powerlevel10k.zsh-theme     /usr/share/powerlevel10k/
